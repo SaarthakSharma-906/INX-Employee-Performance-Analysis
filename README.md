@@ -17,6 +17,8 @@ In recent years, INX has faced challenges with employee performance, leading to 
 2. Performance Comparison: A comparison of performance metrics between performing and non-performing employees, highlighting differences in key areas.
 3. Employee Details: Detailed information about individual employees, including performance ratings, attendance records, and client feedback.
 4. Trend Analysis: Trends in performance metrics over time, allowing management to identify patterns and make informed decisions.
+   ![Screenshot 2024-03-27 184207](https://github.com/SaarthakSharma-906/INX-Employee-Performance-Analysis/assets/140886068/3b732772-6b43-4d41-b7bf-e640f4f079ac)
+
 ## Impact
 The INX Employee Performance Analysis Dashboard is expected to have a significant impact on employee performance and morale at INX. By providing a clear visualization of performance metrics and identifying key differences between performing and non-performing employees, management can implement targeted strategies to improve overall performance and morale.
 ## Tools used
